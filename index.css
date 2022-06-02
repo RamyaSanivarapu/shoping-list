@@ -1,0 +1,26 @@
+body{
+    background-color:aqua;
+    text-align:center;
+}
+.heading{
+    font-size:24px;
+    color:blue;
+}
+.label{
+    font-size:18px;
+}
+
+.addButton{
+    font-size:14px;
+    background-color: greenyellow;
+}
+.items{
+    display:felx;
+    justify-content: space-between;
+}
+
+.deleteButton{
+    font-size: 10px;
+    margin-left: 20px;
+    color: #666;
+}
